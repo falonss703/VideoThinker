@@ -1,4 +1,5 @@
-# 🎬 VideoThinker: Beyond Perceptual Shortcuts
+
+<h1 style="text-align: center;">🎬 VideoThinker: Beyond Perceptual Shortcuts</h1>
 
 <p align="center">
         🤗 <a href="https://huggingface.co/falonss703/VideoThinker-R1">Model</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://github.com/falonss703/VideoThinker">Paper</a> &nbsp&nbsp 
