@@ -10,7 +10,7 @@
 **🚀 CVPR 2026
 "Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs" 🚀**
 
-**[Jingze Wu](https://github.com/falonss703), [Quan Zhang](mailto:zhangq689@mail.sysu.edu.cn)*, Hongfei Suo, Zeqiang Cai, [Hongbo Chen](mailto:chenhongbo@mail.sysu.edu.cn)***
+**[Jingze Wu](https://github.com/falonss703), [Quan Zhang*](mailto:zhangq689@mail.sysu.edu.cn)*, Hongfei Suo, Zeqiang Cai, [Hongbo Chen*](mailto:chenhongbo@mail.sysu.edu.cn)***
 
 **Sun Yat-sen University, China**
 
