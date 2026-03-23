@@ -77,7 +77,7 @@ Fine-tune the main model to actively **push away** from the bias model's behavio
 
 ### 🎥 Demo Video
 
-https://github.com/falonss703/VideoThinker/assets/Comparsion_with_VideoRFT_on_Benchmarks.mp4
+[![Demo Video](asserts/Comparsion_with_VideoRFT_on_Benchmarks.mp4)](https://github.com/user-attachments/assets/de2b71b6-7837-4f88-b555-73c12524455b)
 
 *Comparison with VideoRFT on multiple video reasoning benchmarks*
 
