@@ -2,7 +2,7 @@
 <h1 style="text-align: center;">🎬 VideoThinker: Beyond Perceptual Shortcuts</h1>
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/Falconss1/VideoThinker-R1-3B">Model</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://cvpr.thecvf.com/virtual/2026/poster/37231">Paper</a> &nbsp&nbsp 
+        🤗 <a href="https://huggingface.co/Falconss1/VideoThinker-R1-3B">Model</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/2605.01324v2">Paper</a> &nbsp&nbsp 
 </p>
 
 <div align="center">
@@ -242,10 +242,10 @@ We sincerely thank the contributions from the open source community, including t
 If you find VideoThinker useful in your research, please consider citing our CVPR 2026 paper:
 
 ```BibTeX
-@inproceedings{wu2026videothinker,
+@article{wu2026beyond,
   title={Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs},
   author={Wu, Jingze and Zhang, Quan and Suo, Hongfei and Cai, Zeqiang and Chen, Hongbo},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  journal={arXiv preprint arXiv:2605.01324},
   year={2026}
 }
 ```
