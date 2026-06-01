@@ -242,11 +242,13 @@ We sincerely thank the contributions from the open source community, including t
 If you find VideoThinker useful in your research, please consider citing our CVPR 2026 paper:
 
 ```BibTeX
-@article{wu2026beyond,
-  title={Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs},
-  author={Wu, Jingze and Zhang, Quan and Suo, Hongfei and Cai, Zeqiang and Chen, Hongbo},
-  journal={arXiv preprint arXiv:2605.01324},
-  year={2026}
+@InProceedings{Wu_2026_CVPR,
+    author    = {Wu, Jingze and Zhang, Quan and Suo, Hongfei and Cai, Zeqiang and Chen, Hongbo},
+    title     = {Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {12259-12268}
 }
 ```
 
